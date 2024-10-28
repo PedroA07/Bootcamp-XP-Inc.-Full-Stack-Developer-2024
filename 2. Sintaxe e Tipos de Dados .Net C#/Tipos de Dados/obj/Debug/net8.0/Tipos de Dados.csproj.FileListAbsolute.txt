@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\bin\Debug\net8.0\Tipos de Dados.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\bin\Debug\net8.0\Tipos de Dados.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\bin\Debug\net8.0\Tipos de Dados.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\bin\Debug\net8.0\Tipos de Dados.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\bin\Debug\net8.0\Tipos de Dados.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\refint\Tipos de Dados.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\Tipos de Dados.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Tipos de Dados\obj\Debug\net8.0\ref\Tipos de Dados.dll

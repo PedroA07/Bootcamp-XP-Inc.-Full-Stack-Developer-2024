@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\bin\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\bin\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\bin\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\bin\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\bin\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\refint\1. Introdução as IDEs e Configuração de Ambiente dotNET.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\1. Introdução as IDEs e Configuração de Ambiente dotNET.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\1. Introdução as IDEs e Configuração de Ambiente dotNET\obj\Debug\net8.0\ref\1. Introdução as IDEs e Configuração de Ambiente dotNET.dll

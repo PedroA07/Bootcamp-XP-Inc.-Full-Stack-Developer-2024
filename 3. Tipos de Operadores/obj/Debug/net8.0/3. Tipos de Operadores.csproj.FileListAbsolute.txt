@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\bin\Debug\net8.0\3. Tipos de Operadores.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\bin\Debug\net8.0\3. Tipos de Operadores.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\bin\Debug\net8.0\3. Tipos de Operadores.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\bin\Debug\net8.0\3. Tipos de Operadores.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\bin\Debug\net8.0\3. Tipos de Operadores.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\refint\3. Tipos de Operadores.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\3. Tipos de Operadores.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\obj\Debug\net8.0\ref\3. Tipos de Operadores.dll

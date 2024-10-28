@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\bin\Debug\net8.0\4. Tipos Condicionais.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\bin\Debug\net8.0\4. Tipos Condicionais.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\bin\Debug\net8.0\4. Tipos Condicionais.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\bin\Debug\net8.0\4. Tipos Condicionais.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\bin\Debug\net8.0\4. Tipos Condicionais.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\refint\4. Tipos Condicionais.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\4. Tipos Condicionais.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\4. Tipos Condicionais\obj\Debug\net8.0\ref\4. Tipos Condicionais.dll

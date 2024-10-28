@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\bin\Debug\net8.0\Convertendo de Maneira Segura.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\bin\Debug\net8.0\Convertendo de Maneira Segura.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\bin\Debug\net8.0\Convertendo de Maneira Segura.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\bin\Debug\net8.0\Convertendo de Maneira Segura.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\bin\Debug\net8.0\Convertendo de Maneira Segura.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\refint\Convertendo de Maneira Segura.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\Convertendo de Maneira Segura.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\3. Tipos de Operadores\Convertendo de Maneira Segura\obj\Debug\net8.0\ref\Convertendo de Maneira Segura.dll

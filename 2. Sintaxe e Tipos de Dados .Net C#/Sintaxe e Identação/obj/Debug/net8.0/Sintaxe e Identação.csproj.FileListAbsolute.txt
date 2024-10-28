@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\bin\Debug\net8.0\Sintaxe e Identação.exe
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\bin\Debug\net8.0\Sintaxe e Identação.deps.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\bin\Debug\net8.0\Sintaxe e Identação.runtimeconfig.json
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\bin\Debug\net8.0\Sintaxe e Identação.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\bin\Debug\net8.0\Sintaxe e Identação.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\refint\Sintaxe e Identação.dll
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.pdb
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\Sintaxe e Identação.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Cursos Programação\BootcampXPInc\2. Sintaxe e Tipos de Dados .Net C#\Sintaxe e Identação\obj\Debug\net8.0\ref\Sintaxe e Identação.dll
